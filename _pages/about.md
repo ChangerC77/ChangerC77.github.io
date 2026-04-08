@@ -34,6 +34,7 @@ I'm <span class="accent-text">Xiangyu CHEN</span>, a first-year MPhil student at
 
 # <i class="fas fa-fire"></i> News
 <ul class="about-section-list">
+ <li><em>2025.11</em>: I am honored to be a <span class="accent-text">co-organizer</span> for <a href="https://wbcdcompetition.github.io/" class="accent-text accent-text-link">ICRA 2026 What Bimanuals Can Do (WBCD) Challenge</a>.</li>
   <li><em>2025.09</em>: My team won the <span class="accent-text">First Place</span> 🏆 in the <span class="accent-text">CVPR 2025 Embodied AI Workshop</span>.</li>
   <li><em>2025.05</em>: My team won the <span class="accent-text">First Place</span> 🏆 in the <span class="accent-text">ICRA 2025 What Bimanuals Can Do (WBCD) Challenge</span>.</li>
   <li><em>2025.03</em>: My team won the <span class="accent-text">Champion</span> 🏆 title in <span class="accent-text">ManiSkill-ViTac 2025: Challenge on Manipulation Skill Learning With Vision and Tactile Sensing</span>.</li>
@@ -170,6 +171,26 @@ I'm <span class="accent-text">Xiangyu CHEN</span>, a first-year MPhil student at
 
 # <i class="fas fa-file-alt"></i> Publications
 <p>(<sup>&dagger;</sup>: corresponding author; <sup>*</sup>: equal contribution)</p>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge">arXiv 2026</div>
+    <video class="publication-cover-video" autoplay loop muted playsinline preload="metadata" aria-label="RoboNVS Scene 1 comparison video">
+      <source src='images/robonvs_scene1_ours.mp4' type='video/mp4'>
+    </video>
+  </div>
+  <div class='paper-box-text'>
+    <h3>Beyond Viewpoint Generalization: What Multi-View Demonstrations Offer and How to Synthesize Them for Robot Manipulation?</h3>
+    <div class="authors">Boyang Cai, <a href="https://kolakivy.github.io">Qiwei Liang</a>, Jiawei Li, Shihang Weng, Zhaoxin Zhang, <a href="https://www.lintao.online">Tao Lin</a>, <strong>Xiangyu Chen</strong>, Wenjie Zhang, Jiaqi Mao, <a href="https://wesleyxu224.github.io">Weisheng Xu</a>, Bin Yang, Jiaming Liang, <a href="https://junhaocai27.github.io">Junhao Cai</a>, Renjing Xu</div>
+    <div class="venue"><span class="accent-text">arXiv preprint</span>, 2026</div>
+    <p>We study how multi-view demonstrations improve robot manipulation beyond viewpoint robustness, and propose RoboNVS, a geometry-aware framework that synthesizes novel-view demonstrations from monocular videos.</p>
+    <div class="links">
+      <a href="https://youngyng.github.io/RoboNVS.github.io/" class="btn-accent"><i class="fas fa-globe"></i> Homepage</a>
+      <a href="https://arxiv.org/abs/2603.26757" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/YoungYNG/RoboNVS" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
+  </div>
+</div>
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
