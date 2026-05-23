@@ -54,7 +54,7 @@ I'm <span class="accent-text">Xiangyu CHEN</span>, a first-year MPhil student at
       <div class="education-content">
         <div class="education-header">
           <span class="education-school primary-gradient-text">the Hong Kong University of Science and Technology (Guangzhou)</span>
-          <span class="education-date education-date-inline"><em>2025.09 - 2025.12</em></span>
+          <span class="education-date education-date-inline"><em>2025.09 - present</em></span>
         </div>
         <span class="education-degree">Mphil in ROAS Thrust</span>
       </div>
