@@ -177,13 +177,29 @@ I'm <span class="accent-text">Xiangyu CHEN</span>, a final-year MPhil student at
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge">arXiv 2026</div>
+    <div class="badge">arXiv 2027</div>
+    <img src='images/LumiBench.png' alt="LumiBench teaser" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>LumiBench: Benchmarking Illumination Robustness in Robotic Manipulation Policies</h3>
+    <div class="authors">Yiman Pang<sup>*</sup>, Haoming Gu<sup>*</sup>, <a href="https://victor-roboneo.github.io/">Wenjie Zhang</a>, Yu Yan, <strong>Xiangyu Chen</strong>, Mingqian Zhou, Zhengtu Liang, Boyang Cai, Tao Wang, <a href="https://scholar.google.com/citations?hl=en&user=Mu__bJEAAAAJ&view_op=list_works&sortby=pubdate">Renjing Xu</a></div>
+    <div class="venue"><span class="accent-text">arXiv preprint</span>, 2027</div>
+    <p>We propose LumiBench, a physical benchmark for evaluating the illumination robustness of robotic manipulation policies across varying lighting conditions.</p>
+    <div class="links">
+      <a href="https://pangym666.github.io/LumiBench/" class="btn-accent"><i class="fas fa-globe"></i> Homepage</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge">arXiv 2027</div>
     <img src='images/AAAI_2026.gif' alt="DreamTrajectory teaser" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>DreamTrajectory: Trajectory-Guided Action Generation with World Model Alignment for Mobile Manipulation</h3>
     <div class="authors"><a href="https://openreview.net/profile?id=~Zheng_Yang8">Zheng Yang</a><sup>*</sup>, <a href="https://victor-roboneo.github.io/">Wenjie Zhang</a><sup>*</sup>, <strong>Xiangyu Chen</strong>, <a href="https://songwxuan.github.io/">Wenxuan Song</a>, Xianpeng Wang, Yihang Kang, Wen Chen, Lujia Wang, <a href="https://scholar.google.com/citations?hl=en&user=Mu__bJEAAAAJ&view_op=list_works&sortby=pubdate">Renjing Xu</a>, <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CHU-Xiaowen/xwchu">Xiaowen Chu</a></div>
-    <div class="venue"><span class="accent-text">arXiv preprint</span>, 2026</div>
+    <div class="venue"><span class="accent-text">arXiv preprint</span>, 2027</div>
     <p>We propose DreamTrajectory, a trajectory-guided action generation framework with world model alignment for mobile manipulation.</p>
     <div class="links">
       <a href="https://victor-roboneo.github.io/DreamTrajectory/" class="btn-accent"><i class="fas fa-globe"></i> Homepage</a>
@@ -194,7 +210,7 @@ I'm <span class="accent-text">Xiangyu CHEN</span>, a final-year MPhil student at
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge">arXiv 2026</div>
+    <div class="badge">arXiv 2027</div>
     <video class="publication-cover-video" autoplay loop muted playsinline preload="metadata" aria-label="RoboNVS Scene 1 comparison video">
       <source src='images/robonvs_scene1_ours.mp4' type='video/mp4'>
     </video>
@@ -202,7 +218,7 @@ I'm <span class="accent-text">Xiangyu CHEN</span>, a final-year MPhil student at
   <div class='paper-box-text'>
     <h3>Beyond Viewpoint Generalization: What Multi-View Demonstrations Offer and How to Synthesize Them for Robot Manipulation?</h3>
     <div class="authors">Boyang Cai, <a href="https://kolakivy.github.io">Qiwei Liang</a>, Jiawei Li, Shihang Weng, Zhaoxin Zhang, <a href="https://www.lintao.online">Tao Lin</a>, <strong>Xiangyu Chen</strong>, <a href="https://victor-roboneo.github.io/">Wenjie Zhang</a>, Jiaqi Mao, <a href="https://wesleyxu224.github.io">Weisheng Xu</a>, Bin Yang, Jiaming Liang, <a href="https://junhaocai27.github.io">Junhao Cai</a>, <a href="https://scholar.google.com/citations?hl=en&user=Mu__bJEAAAAJ&view_op=list_works&sortby=pubdate">Renjing Xu</a></div>
-    <div class="venue"><span class="accent-text">arXiv preprint</span>, 2026</div>
+    <div class="venue"><span class="accent-text">arXiv preprint</span>, 2027</div>
     <p>We study how multi-view demonstrations improve robot manipulation beyond viewpoint robustness, and propose RoboNVS, a geometry-aware framework that synthesizes novel-view demonstrations from monocular videos.</p>
     <div class="links">
       <a href="https://youngyng.github.io/RoboNVS.github.io/" class="btn-accent"><i class="fas fa-globe"></i> Homepage</a>
